@@ -8,9 +8,9 @@
 - 🔭 I'm currently working on **Intel platforms, DevOps**
 
 - 🌱 I'm currently learning **ML, Distributed Systems, Rust**
-
+<!-- 
 - 👨‍💻 All of my projects are available at **[https://test.com](https://test.com)**
-
+-->
 - 📝 I regularly write articles on **[https://medium.com/@wires_doc](https://medium.com/@wires_doc)**
 <!--
 <h3 align="left">Connect with me:</h3>
