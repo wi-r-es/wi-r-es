@@ -12,6 +12,7 @@
 <!-- 
 - 👨‍💻 All of my projects are available at **[https://test.com](https://test.com)**
 -->
+<!-- 
 - 📝 I regularly write articles on **[https://medium.com/@wires_doc](https://medium.com/@wires_doc)**
 <!--
 <h3 align="left">Connect with me:</h3>
