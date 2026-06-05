@@ -1,6 +1,6 @@
-# Hi 👋, I'm wrs
+# Hi 👋, I'm wires
 
-### A passionate security developer
+### A passionate computer engineer
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wi-r-es&label=Profile%20views&color=0e75b6&style=flat" alt="wrs" /> </p>
 <!-- 
