@@ -8,7 +8,8 @@
 -->
 - 🔭 I'm currently working on **Intel platforms, DevOps**
 
-- 🌱 I'm currently learning **ML, Distributed Systems, Rust**
+- 🌱 I'm currently learning **ML, Robotics** 
+<!-- Distributed Systems, Rust** -->
 <!-- 
 - 👨‍💻 All of my projects are available at **[https://test.com](https://test.com)**
 -->
